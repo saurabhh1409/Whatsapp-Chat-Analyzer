@@ -2,7 +2,7 @@ pandas
 numpy
 wordcloud
 emoji
-urltext
+urlextract
 streamlit
 matplotlib
 seaborn
